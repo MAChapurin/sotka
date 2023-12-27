@@ -1,0 +1,8 @@
+:root {
+  --main-color: #ec5598;
+  --btn-color: #EC5598;
+  --text-color: #000;
+  --text-support: rgba(0, 0, 0, 0.8);
+  --background: #fff;
+  --background-support: rgba(255, 255, 255, 0.8);
+}
