@@ -49,15 +49,15 @@
 }
 
 .wedding {
-  background-image: url('img/wedding.jpg');
+  background-image: url('../../img/wedding.jpg');
 }
 
 .decoration {
-  background-image: url('img/decoration.jpg');
+  background-image: url('../../img/decoration.jpg');
 }
 
 .catering {
-  background-image: url('img/catering.jpg');
+  background-image: url('../../img/catering.jpg');
 }
 
 .card {
